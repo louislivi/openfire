@@ -15,7 +15,7 @@
  */
 class OpenFire{
 
-    static private $base_url = 'http://www.55rd.com:9090';
+    static private $base_url = 'http://127.0.0.1:9090';
     private $username = 'admin';
     private $password = 'admin';
     static private $server_domain = 'i-f5tpijbs';
